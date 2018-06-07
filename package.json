@@ -12,6 +12,7 @@
   "author": "SS",
   "license": "MIT",
   "dependencies": {
-    "atob": "^2.1.1"
+    "atob": "^2.1.1",
+    "btoa": "^1.2.1"
   }
 }
